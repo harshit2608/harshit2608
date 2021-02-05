@@ -29,14 +29,14 @@
 <details>
     <summary>:zap: GitHub Stats</summary>
     <br />
-    <img align="left" alt="Harshit's GitHub Stats" src="https://github-readme-stats.harshit2608.vercel.app/api?username=harshit2608&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="left" alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshit2608&show_icons=true&hide_border=true&theme=tokyonight" />
     <br clear="all" />
 </details>
 
 <details>
     <summary>:zap: GitHub Languages</summary>
     <br />
-    <img align="left" alt="Harshit's GitHub Stats" src="https://github-readme-stats.harshit2608.vercel.app/api/top-langs/?username=harshit2608" />
+    <img align="left" alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2608" />
     <br clear="all" />
 </details>
 
