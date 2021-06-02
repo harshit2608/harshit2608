@@ -21,12 +21,12 @@
 ## 📘 My top open source projects
 
 <p align="left">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=Victoria&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Victoria">    
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=BoostRocket&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BoostRocket">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Raytracer-C-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RayTracer">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Solved-Programming-Questions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Solved_programming-questions">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Kanna&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Kanna">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=WEB-DEV&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="WEB-DEV">
+    <a href = "https://github.com/org-Stupefy/Victoria"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=Victoria&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Victoria"></a>   
+    <a href = "https://github.com/org-Stupefy/BoostRocket"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=BoostRocket&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BoostRocket"></a>
+    <a href = "https://github.com/harshit2608/Raytracer-C-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Raytracer-C-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RayTracer"></a>
+    <a href = "https://github.com/harshit2608/Solved-Programming-Questions"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Solved-Programming-Questions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Solved_programming-questions"></a>
+    <a href = "https://github.com/harshit2608/Kanna"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Kanna&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Kanna"></a>
+    <a href = "https://github.com/harshit2608/WEB-DEV"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=WEB-DEV&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="WEB-DEV"></a>
 </p>
 
 <p align="left">
