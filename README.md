@@ -29,7 +29,7 @@
     <a href = "https://github.com/harshit2608/WEB-DEV"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=WEB-DEV&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="WEB-DEV"></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/harshit2608?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -55,6 +55,7 @@
 <p>
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?&logo=opengl"/>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white"/>
+    <img alt="gtest" src="https://img.shields.io/badge/-gtest-blue?&logo=google&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases and cloud hosting
