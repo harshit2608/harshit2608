@@ -23,6 +23,7 @@
 <p align="left">
     <a href = "https://github.com/org-Stupefy/Victoria"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=Victoria&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Victoria"></a>   
     <a href = "https://github.com/org-Stupefy/BoostRocket"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=BoostRocket&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BoostRocket"></a>
+    <a href = "https://github.com/harshit2608/ORE"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=ORE&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ORE"></a>   
     <a href = "https://github.com/harshit2608/Trigger"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Trigger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Trigger"></a>
     <a href = "https://github.com/harshit2608/Raytracer-C-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Raytracer-C-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RayTracer"></a>
     <a href = "https://github.com/harshit2608/Solved-Programming-Questions"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshit2608&repo=Solved-Programming-Questions&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Solved_programming-questions"></a>
@@ -57,6 +58,8 @@
     <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?&logo=opengl"/>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white"/>
     <img alt="gtest" src="https://img.shields.io/badge/-gtest-blue?&logo=google&logoColor=white"/>
+    <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?&logo=cmake&logoColor=white"/>     
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&logo=Flutter&logoColor=white"/>     
 </p>
 
 ### 🗄️ Databases and cloud hosting
