@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-    <a href = "https://github.com/harshit2608"><img alt="Github" src=https://img.shields.io/badge/harshit2608-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href = "https://github.com/harshit2608"><img alt="harshit2608Github" src="https://img.shields.io/badge/harshit2608-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href = "https://github.com/org-Stupefy"><img alt="Github" src="https://img.shields.io/badge/orgStupefy-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 📘 My top open source projects
+## 📘 My top open-source projects
 
 <p align="left">
     <a href = "https://github.com/org-Stupefy/Victoria"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=org-Stupefy&repo=Victoria&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Victoria"></a>   
@@ -46,10 +46,13 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
     <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white">
+   
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -113,18 +116,6 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
-<!--START_SECTION:activity-->
-
-_WIP_
-
-<!-- 1. 🎉 Merged PR
-2. ❗️ Closed issue
-3. 💪 Opened PR
-4. ❗️ Opened issue
-5. ❗️ Closed issue -->
-
-<!--END_SECTION:activity-->
 
 </details>
 
