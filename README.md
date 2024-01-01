@@ -64,6 +64,6 @@
 
 ### 🔥 Streak stats
 
-[![Harshit's streak](https://github-readme-streak-stats.herokuapp.com?user=harshit2608&theme=monokai-metallian&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=harshit2608&theme=monokai-metallian&hide_border=true)
+![Harshit's streak](https://github-readme-streak-stats.herokuapp.com?user=harshit2608&theme=monokai-metallian&hide_border=true)
 
 </div>
